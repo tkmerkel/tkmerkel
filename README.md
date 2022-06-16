@@ -2,8 +2,7 @@
 
 I am a mostly self taught python coder working on data analytics, bots and dashboards.
 
-I am using Github to host some of the work that I've done the past few years for myself
-(its right up there ^^)
+I am using Github to host some of the work that I've done the past few years for myself (use this repo).
 
 - 🔭 I’m currently working on building a database of historical listing distributions for nfts.
 - 🌱 I’m currently learning catboost regression.
