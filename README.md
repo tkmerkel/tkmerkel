@@ -10,4 +10,4 @@ I am using Github to host some of the work that I've done the past few years for
 - 📫 How to reach me: tkmerkel92@gmail.com
 
 Web apps:
-nflgamegraph.com
+- nflgamegraph.com
