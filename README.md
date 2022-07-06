@@ -1,6 +1,6 @@
 ### Hey what's going on 👋
 
-I am a mostly self taught python coder working on data analytics, bots and dashboards.
+I am a mostly self taught python coder with a background in engineering/business working on data analytics, bots and dashboards.
 
 I am using Github to host some of the work that I've done the past few years for myself (use this repo).
 
